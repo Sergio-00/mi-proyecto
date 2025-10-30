@@ -1,0 +1,19 @@
+{
+  "name": "clase_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "js1": "node ./js/archivo1.js",
+    "js2": "node ./js/archivo2.js",
+    "js3": "node ./js/archivo3.js",
+    "js4": "node ./js/archivo4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
