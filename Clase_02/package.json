@@ -9,6 +9,9 @@
     "js2": "node ./js/archivo2.js",
     "js3": "node ./js/archivo3.js",
     "js4": "node ./js/archivo4.js",
+    "calc": "node ./features/calculator.js",
+    "validation": "node ./utils/validation.js",
+    "api": "node ./services/api.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
