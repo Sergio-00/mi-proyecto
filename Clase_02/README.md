@@ -1,14 +1,24 @@
 # Evidencias de la clase 2
 
-## Forma de ejecutar los archivos
+## Cómo ejecutar los archivos
 
-Clona el repositorio y ejecuta el siguiente comando para instalar las dependencias necesarias dentro de la carpeta de "Clase_02":
+Requisitos: Debes tener Node y Git instalado.
+
+Clona el repositorio y ejecuta el siguiente comando dentro de la carpeta "Clase_02" para instalar las dependencias necesarias:
 
 ```bash
 npm install
 ```
 
 Una vez instaladas las dependencias, puedes ejecutar cada uno de los scripts con:
+
+```bash
+npm run calc
+npm run validation
+npm run api
+```
+
+Para los ejercios de JavaScript anteriores:
 
 ```bash
 npm run js1
