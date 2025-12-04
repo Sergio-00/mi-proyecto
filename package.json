@@ -1,0 +1,24 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Repositorio para la carga de evidencias de GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergio-00/mi-proyecto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Sergio-00/mi-proyecto/issues"
+  },
+  "homepage": "https://github.com/Sergio-00/mi-proyecto#readme",
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
+}
